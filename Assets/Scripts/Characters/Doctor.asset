@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc2193346114c0741bf9025b40000dcc, type: 3}
+  m_Name: Doctor
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 62474a28c6ff17e4ab5146dc9cdfab17, type: 3}
+  label: Doctor
+  price: 125
+  color: {r: 0.48584908, g: 0.8628931, b: 1, a: 1}
+  eyesBorder: {fileID: 21300000, guid: b54cce8f1fd767447864b1a4a0efffeb, type: 3}
+  eyesWhite: {fileID: 21300000, guid: 9cf36412f1bf56043b0cbed63fc0366e, type: 3}
+  eyesClosed: {fileID: 21300000, guid: eb5275ee7b405b34a830c24f2131950d, type: 3}
+  size: {x: 0.18, y: 0.23}
